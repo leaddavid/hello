@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this row don't want be update
+=======
+master branch,I'm the only one
+>>>>>>> master
